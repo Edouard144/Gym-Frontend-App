@@ -6,27 +6,27 @@ import Link from "next/link"
 
 const trainers = [
   {
-    name: "Sarah Johnson",
+    name: "Cyizere Happy",
     specialty: "HIIT & Cardio",
     experience: "8 years",
     rating: 4.9,
-    image: "/placeholder.svg?height=300&width=300",
+    image: "/happy.jpg?height=300&width=300",
     certifications: ["NASM-CPT", "HIIT Specialist"],
   },
   {
-    name: "Mike Chen",
+    name: "Silent Exit",
     specialty: "Yoga & Mindfulness",
     experience: "6 years",
     rating: 4.8,
-    image: "/placeholder.svg?height=300&width=300",
+    image: "/silent.jpg?height=300&width=300",
     certifications: ["RYT-500", "Meditation Teacher"],
   },
   {
-    name: "David Wilson",
+    name: "Edouard Cheevay",
     specialty: "Strength Training",
     experience: "10 years",
     rating: 4.9,
-    image: "/placeholder.svg?height=300&width=300",
+    image: "/cheev.jpg?height=300&width=300",
     certifications: ["CSCS", "Powerlifting Coach"],
   },
 ]

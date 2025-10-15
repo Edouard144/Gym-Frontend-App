@@ -9,21 +9,21 @@ const featuredClasses = [
     description: "High-intensity interval training for maximum results",
     duration: "45 min",
     capacity: "20 people",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/hiit_training.jpg?height=200&width=300",
   },
   {
     name: "Yoga Flow",
     description: "Gentle flowing sequences for flexibility and mindfulness",
     duration: "60 min",
     capacity: "25 people",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/yoga_flow.jpg?height=200&width=300",
   },
   {
     name: "Strength Training",
     description: "Build muscle and increase strength progressively",
     duration: "50 min",
     capacity: "15 people",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/strength_training.jpg?height=200&width=300",
   },
 ]
 
@@ -43,7 +43,7 @@ export function ClassesPreview() {
             <Card key={index} className="overflow-hidden hover:shadow-lg transition-shadow">
               <div className="h-48 bg-gray-200">
                 <img
-                  src={class_.image || "/placeholder.svg"}
+                  src={class_.image || "/map.jpg?height=200&width=300"}
                   alt={class_.name}
                   className="w-full h-full object-cover"
                 />

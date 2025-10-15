@@ -8,7 +8,7 @@ const testimonials = [
     content:
       "FitZone Pro transformed my fitness journey. The trainers are incredibly knowledgeable and the sauna sessions help me recover faster than ever.",
     rating: 5,
-    image: "/placeholder.svg?height=80&width=80",
+    image: "/jessica.jpg?height=80&width=80",
   },
   {
     name: "Robert Chen",
@@ -16,7 +16,7 @@ const testimonials = [
     content:
       "The 24/7 access is perfect for my schedule. I love the variety of classes and the equipment is always well-maintained.",
     rating: 5,
-    image: "/placeholder.svg?height=80&width=80",
+    image: "/chen.jpg?height=80&width=80",
   },
   {
     name: "Amanda Thompson",
@@ -24,7 +24,7 @@ const testimonials = [
     content:
       "The nutrition guidance and meal plans have been game-changers. I've never felt stronger or more confident in my body.",
     rating: 5,
-    image: "/placeholder.svg?height=80&width=80",
+    image: "/amanda.jpg?height=80&width=80",
   },
 ]
 
