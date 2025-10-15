@@ -26,7 +26,8 @@ A modern, responsive website for a gym and sauna facility built with Next.js, Ty
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/Edouard144/Gym-Frontend-App](https://github.com/Edouard144/Gym-Frontend-App)
+   git clone https://github.com/Edouard144/Gym-Frontend-App
    cd Gym-Frontend-App
+
 
 
